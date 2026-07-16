@@ -123,6 +123,3 @@ These artifacts are frequently used in insider threat investigations, data theft
 ---
 
 
-troubleshooting-notes.md
-Screenshots/
-```
